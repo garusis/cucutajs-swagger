@@ -6,10 +6,17 @@
   "author": "Marcos J. Alvarez <garusis@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "test": "swagger project test"
   },
   "dependencies": {
     "express": "^4.16.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "z-schema": "^3.12.0",
+    "request": "^2.58.0",
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5",
+    "dotenv": "^1.2.0"
+  }
 }
