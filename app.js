@@ -6,7 +6,6 @@ const v1Routes = require('./api/v1');
 
 
 const app = express();
+
 app.use('/v1', v1Routes);
-
-
-app.listen(3000);
+app.listen(4000);
