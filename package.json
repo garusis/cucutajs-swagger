@@ -1,0 +1,8 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:garusis/cucutajs-swagger.git",
+  "author": "Marcos J. Alvarez <garusis@gmail.com>",
+  "license": "MIT"
+}
